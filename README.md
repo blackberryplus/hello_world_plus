@@ -1,2 +1,7 @@
 # hello_world_plus
-just a training 
+#include <iostream>
+void main(void)
+  {
+    std::cout<<"hello world /0";
+  
+  }
